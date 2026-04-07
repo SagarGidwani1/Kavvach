@@ -61,5 +61,7 @@ utils/
 
 ## 📜 Problem Statement: Defend the Digital Citizen
 Built for the hackathon challenge to create proactive GenAI tools that prevent scams and rebuild trust. Kavvach is our answer to the voice-phishing (vishing) epidemic.
+
 **WORKING DEMO VIDEO OF KAVVACH -->** https://youtu.be/lsttYb5XJXs
+
 Developed by **Sagar Gidwani**.
