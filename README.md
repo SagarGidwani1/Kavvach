@@ -3,6 +3,8 @@
 
 **Kavvach** is a proactive security tool designed to protect vulnerable users from the rising threat of GenAI-powered voice cloning scams. In an era where AI can mimic a loved one's voice with 99% accuracy, Kavvach acts as a digital shield by verifying the authenticity of a caller's voice in real-time.
 
+**WORKING DEMO VIDEO OF KAVVACH -->** https://youtu.be/lsttYb5XJXs
+
 ---
 
 ## 🛡️ Proactive Scam Prevention
@@ -61,7 +63,5 @@ utils/
 
 ## 📜 Problem Statement: Defend the Digital Citizen
 Built for the hackathon challenge to create proactive GenAI tools that prevent scams and rebuild trust. Kavvach is our answer to the voice-phishing (vishing) epidemic.
-
-**WORKING DEMO VIDEO OF KAVVACH -->** https://youtu.be/lsttYb5XJXs
 
 Developed by **Sagar Gidwani**.
